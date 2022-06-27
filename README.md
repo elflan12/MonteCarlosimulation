@@ -1,11 +1,11 @@
-#Monte Carlo simulation to estimate pi
+# Monte Carlo simulation to estimate pi
 
 
-##Introduction
+## Introduction
 
 The Monte Carlo simulation is an algorithm that uses a large number of repeated random sampling and produces summary statistics based on the sum of outcomes. The Monte Carlo simulation will define a domain of possible inputs, generate inputs randomly over the domain, perform a deterministic computation on the random inputs, and then aggregate the results.
 
-##Using Monte Carlo to estimate the value of pi
+## Using Monte Carlo to estimate the value of pi
 
 A circle that can fit in the square with domain [-1,1] has a radius of 1 and area π. The area of the square is 4. The ratio of the area of the circle to the square is π/4. 
 
